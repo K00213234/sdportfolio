@@ -1,2 +1,0 @@
-# sdportfolio
-Created with CodeSandbox
