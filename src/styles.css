@@ -48,10 +48,10 @@ body {
   padding-right: 5px;
 }
 #content {
-  float: center;
+  /*float:  center;*/
   text-align: center;
 }
 #showcaseGallery img {
   height: 200px;
-  widht: 400px;
+  width: 400px;
 }
